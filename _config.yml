@@ -17,8 +17,8 @@ favicon: favicon.ico
 
 repository: githubforczy/githubforczy.github.io
 github_url: https://github.com/githubforczy
-url: https://githubforczy.github.io
-#enforce_ssl: ityouknow.com
+url: http://blog.usocute.cn
+enforce_ssl: blog.usocute.cn
 
 ## Gem
 plugins:
