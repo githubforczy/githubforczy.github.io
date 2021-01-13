@@ -248,14 +248,14 @@ disqus:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: githubforczy
-    repo: blog-comments
+    repo: githubforczy.github.io
     oauth:
         client_id: 0fe7566c5932e42e2965
         client_secret: e7f579c5510a8ac87cc6dc0ba119c834765f3578
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: githubforczy
-    repo: blog-comments
+    repo: githubforczy.github.io
     clientID: 0fe7566c5932e42e2965
     clientSecret: e7f579c5510a8ac87cc6dc0ba119c834765f3578
 # 在使用其它评论组件时可点击显示 Disqus
